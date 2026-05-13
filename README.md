@@ -9,7 +9,7 @@ I'm a Data Analyst with some experience in Android Dev and Web Dev (backend). </
 
 - **Medical Clinic**: A web platform where patients can book and manage appointments, while doctors manage their schedules and availability. </br>
 
-- **Car Builds Sentiment Analysis**: Performs sentiment and topic analysis on data fetched from YouTube’s API on different car builds *(in progress)*. </br>
+- **Car Builds Sentiment Analysis**: Performs sentiment and topic analysis on data fetched from YouTube’s API on different car builds. </br>
 
 - **Cook**: Android Development training (ITI), An Android app for browsing and saving recipes. </br>
 
